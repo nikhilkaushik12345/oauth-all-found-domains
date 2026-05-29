@@ -1,0 +1,15 @@
+# OAuth 2.0 Protected Domains - MCP Security Scan
+# Total OAuth 2.0 Domains: 1100
+# Total Domains Scanned: 3322
+# Percentage: 38.2%
+# Risk Level: Low
+# Generated: 2026-05-30 03:00 AM IST
+# Scan Duration: 113.7 seconds
+# Workers Used: 32
+
+AUTHENTICATION BREAKDOWN:
+======================================================================
+OAUTH_2              : 1100 domains ( 38.2%) - Risk: Low
+NO_AUTH              :  526 domains ( 18.3%) - Risk: Critical
+API_KEY              :  397 domains ( 13.8%) - Risk: Moderate
+UNKNOWN_OTHER        :  855 domains ( 29.7%) - Risk: Unknown

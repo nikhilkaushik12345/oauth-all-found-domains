@@ -1,0 +1,38 @@
+{
+  "scan_id": "mcp-parallel-scan-3322-domains",
+  "scan_date": "2026-05-30",
+  "scan_time": "02:39 AM IST",
+  "total_domains_scanned": 3322,
+  "oauth_2_domains": {
+    "count": 1100,
+    "percentage": 38.2,
+    "risk_level": "Low"
+  },
+  "authentication_breakdown": {
+    "oauth_2": {
+      "count": 1100,
+      "percent": 38.2,
+      "risk_level": "Low"
+    },
+    "no_auth": {
+      "count": 526,
+      "percent": 18.3,
+      "risk_level": "Critical"
+    },
+    "api_key": {
+      "count": 397,
+      "percent": 13.8,
+      "risk_level": "Moderate"
+    },
+    "unknown_other": {
+      "count": 855,
+      "percent": 29.7,
+      "risk_level": "Unknown"
+    }
+  },
+  "scan_performance": {
+    "duration_seconds": 113.7,
+    "domains_per_second": 29.2,
+    "workers": 32
+  }
+}
