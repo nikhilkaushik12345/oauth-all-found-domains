@@ -1,0 +1,4406 @@
+{
+  "total_urls": 1100,
+  "total_domains": 1100,
+  "verified_urls": [
+    {
+      "domain": "1000ps.at",
+      "url": "https://mcp.1000ps.at/.well-known/mcp-server"
+    },
+    {
+      "domain": "100hires.com",
+      "url": "https://mcp.100hires.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "10minuteschool.com",
+      "url": "https://mcp.10minuteschool.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "123elec.com",
+      "url": "https://mcp.123elec.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "1up.ai",
+      "url": "https://mcp.1up.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "2050-materials.com",
+      "url": "https://mcp.2050-materials.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "2cloudnine.com",
+      "url": "https://mcp.2cloudnine.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "2escape.nl",
+      "url": "https://mcp.2escape.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "30x.com",
+      "url": "https://mcp.30x.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "360shuke.com",
+      "url": "https://mcp.360shuke.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "3dspark.de",
+      "url": "https://mcp.3dspark.de/.well-known/mcp-server"
+    },
+    {
+      "domain": "3i.ai",
+      "url": "https://mcp.3i.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "4degrees.ai",
+      "url": "https://mcp.4degrees.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "500.co",
+      "url": "https://mcp.500.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "51ultron.com",
+      "url": "https://mcp.51ultron.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "58pic.com",
+      "url": "https://mcp.58pic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "5gnetworks.au",
+      "url": "https://mcp.5gnetworks.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "6figr.com",
+      "url": "https://mcp.6figr.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "8m.eu",
+      "url": "https://mcp.8m.eu/.well-known/mcp-server"
+    },
+    {
+      "domain": "99c.co.za",
+      "url": "https://mcp.99c.co.za/.well-known/mcp-server"
+    },
+    {
+      "domain": "aaf.ro",
+      "url": "https://mcp.aaf.ro/.well-known/mcp-server"
+    },
+    {
+      "domain": "aafs.org",
+      "url": "https://mcp.aafs.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "aajil.sa",
+      "url": "https://mcp.aajil.sa/.well-known/mcp-server"
+    },
+    {
+      "domain": "aarna.ai",
+      "url": "https://mcp.aarna.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "abacatepay.com",
+      "url": "https://mcp.abacatepay.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "abacum.ai",
+      "url": "https://mcp.abacum.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "abatable.com",
+      "url": "https://mcp.abatable.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "abclegal.com",
+      "url": "https://mcp.abclegal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "abconvert.io",
+      "url": "https://mcp.abconvert.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "abill.io",
+      "url": "https://mcp.abill.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "absoluteinvestimentos.com.br",
+      "url": "https://mcp.absoluteinvestimentos.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "abundolive.se",
+      "url": "https://mcp.abundolive.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "accelera.tech",
+      "url": "https://mcp.accelera.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "accessowl.com",
+      "url": "https://mcp.accessowl.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "acclinate.com",
+      "url": "https://mcp.acclinate.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "accuweather.com",
+      "url": "https://mcp.accuweather.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aceworks.ai",
+      "url": "https://mcp.aceworks.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aclarian.com",
+      "url": "https://mcp.aclarian.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aclymate.com",
+      "url": "https://mcp.aclymate.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "across.to",
+      "url": "https://mcp.across.to/.well-known/mcp-server"
+    },
+    {
+      "domain": "acs-cam.com",
+      "url": "https://mcp.acs-cam.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ad-man.io",
+      "url": "https://mcp.ad-man.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "adamhall.com",
+      "url": "https://mcp.adamhall.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adaptic.no",
+      "url": "https://mcp.adaptic.no/.well-known/mcp-server"
+    },
+    {
+      "domain": "adaptive6.com",
+      "url": "https://mcp.adaptive6.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adbutler.com",
+      "url": "https://mcp.adbutler.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adchieve.com",
+      "url": "https://mcp.adchieve.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adentris.com",
+      "url": "https://mcp.adentris.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adlabs.app",
+      "url": "https://mcp.adlabs.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "admanage.ai",
+      "url": "https://mcp.admanage.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "admove.ai",
+      "url": "https://mcp.admove.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adology.ai",
+      "url": "https://mcp.adology.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adologyai.com",
+      "url": "https://mcp.adologyai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adomik.com",
+      "url": "https://mcp.adomik.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adomni.com",
+      "url": "https://mcp.adomni.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adopt.ai",
+      "url": "https://mcp.adopt.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adp.com",
+      "url": "https://mcp.adp.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adplenty.io",
+      "url": "https://mcp.adplenty.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "adplist.org",
+      "url": "https://mcp.adplist.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "adscale.com",
+      "url": "https://mcp.adscale.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adsgency.ai",
+      "url": "https://mcp.adsgency.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adsimple.at",
+      "url": "https://mcp.adsimple.at/.well-known/mcp-server"
+    },
+    {
+      "domain": "adthena.com",
+      "url": "https://mcp.adthena.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "advally.com",
+      "url": "https://mcp.advally.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "advancio.io",
+      "url": "https://mcp.advancio.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "adverteyes.ai",
+      "url": "https://mcp.adverteyes.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adyntel.com",
+      "url": "https://mcp.adyntel.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "adzen.ai",
+      "url": "https://mcp.adzen.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "adzgroup.net",
+      "url": "https://mcp.adzgroup.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "aeroventures.com",
+      "url": "https://mcp.aeroventures.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aevo.xyz",
+      "url": "https://mcp.aevo.xyz/.well-known/mcp-server"
+    },
+    {
+      "domain": "affinda.com",
+      "url": "https://mcp.affinda.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "affinitasdmcc.com",
+      "url": "https://mcp.affinitasdmcc.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "affinity.co",
+      "url": "https://mcp.affinity.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "affinityanswers.com",
+      "url": "https://mcp.affinityanswers.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "affise.com",
+      "url": "https://mcp.affise.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "africadigitalconnect.net",
+      "url": "https://mcp.africadigitalconnect.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "afriex.com",
+      "url": "https://mcp.afriex.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "agency.inc",
+      "url": "https://mcp.agency.inc/.well-known/mcp-server"
+    },
+    {
+      "domain": "agent.ai",
+      "url": "https://mcp.agent.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "agentic-data.com",
+      "url": "https://mcp.agentic-data.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "agenticflow.ai",
+      "url": "https://mcp.agenticflow.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "agentmail.to",
+      "url": "https://mcp.agentmail.to/.well-known/mcp-server"
+    },
+    {
+      "domain": "agicap.com",
+      "url": "https://mcp.agicap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "agora.io",
+      "url": "https://mcp.agora.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "agorapulse.com",
+      "url": "https://mcp.agorapulse.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "agrex.ai",
+      "url": "https://mcp.agrex.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "agrexai.com",
+      "url": "https://mcp.agrexai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "agrisafe.agr.br",
+      "url": "https://mcp.agrisafe.agr.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "aguiarinjurylawyers.com",
+      "url": "https://mcp.aguiarinjurylawyers.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ahaslides.com",
+      "url": "https://mcp.ahaslides.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aheadcomputing.com",
+      "url": "https://mcp.aheadcomputing.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ahoikapptn.com",
+      "url": "https://mcp.ahoikapptn.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aibox.ai",
+      "url": "https://mcp.aibox.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aico.swiss",
+      "url": "https://mcp.aico.swiss/.well-known/mcp-server"
+    },
+    {
+      "domain": "aidentified.com",
+      "url": "https://mcp.aidentified.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aiims.group",
+      "url": "https://mcp.aiims.group/.well-known/mcp-server"
+    },
+    {
+      "domain": "aimfox.com",
+      "url": "https://mcp.aimfox.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "airbridge.io",
+      "url": "https://mcp.airbridge.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "airframe.ai",
+      "url": "https://mcp.airframe.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "airpay.co.in",
+      "url": "https://mcp.airpay.co.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "airsaas.io",
+      "url": "https://mcp.airsaas.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "airtable.com",
+      "url": "https://mcp.airtable.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "airwallex.com",
+      "url": "https://mcp.airwallex.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aiseo.ai",
+      "url": "https://mcp.aiseo.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aislelabs.com",
+      "url": "https://mcp.aislelabs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aitomatic.com",
+      "url": "https://mcp.aitomatic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aivideo.com",
+      "url": "https://mcp.aivideo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ajlanbros-holding.com",
+      "url": "https://mcp.ajlanbros-holding.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "akamai.com",
+      "url": "https://mcp.akamai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "akiflow.com",
+      "url": "https://mcp.akiflow.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "akua.la",
+      "url": "https://mcp.akua.la/.well-known/mcp-server"
+    },
+    {
+      "domain": "alaimolabs.com",
+      "url": "https://mcp.alaimolabs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alamah.om",
+      "url": "https://mcp.alamah.om/.well-known/mcp-server"
+    },
+    {
+      "domain": "alchemy.com",
+      "url": "https://mcp.alchemy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alegra.com",
+      "url": "https://mcp.alegra.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aleluya.com",
+      "url": "https://mcp.aleluya.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alex.com",
+      "url": "https://mcp.alex.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "algoed.co",
+      "url": "https://mcp.algoed.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "algolia.com",
+      "url": "https://mcp.algolia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aljassar.com",
+      "url": "https://mcp.aljassar.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "allaboard.eu",
+      "url": "https://mcp.allaboard.eu/.well-known/mcp-server"
+    },
+    {
+      "domain": "allbridge.io",
+      "url": "https://mcp.allbridge.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "allcore.it",
+      "url": "https://mcp.allcore.it/.well-known/mcp-server"
+    },
+    {
+      "domain": "allears.ai",
+      "url": "https://mcp.allears.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "allegrow.co",
+      "url": "https://mcp.allegrow.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "allianceabroad.com",
+      "url": "https://mcp.allianceabroad.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alliontechnologies.ca",
+      "url": "https://mcp.alliontechnologies.ca/.well-known/mcp-server"
+    },
+    {
+      "domain": "allium.so",
+      "url": "https://mcp.allium.so/.well-known/mcp-server"
+    },
+    {
+      "domain": "allocate.co",
+      "url": "https://mcp.allocate.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "alloy.app",
+      "url": "https://mcp.alloy.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "allsides.com",
+      "url": "https://mcp.allsides.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "allunite.com",
+      "url": "https://mcp.allunite.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alma.food",
+      "url": "https://mcp.alma.food/.well-known/mcp-server"
+    },
+    {
+      "domain": "alo-tech.com",
+      "url": "https://mcp.alo-tech.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alpaca.markets",
+      "url": "https://mcp.alpaca.markets/.well-known/mcp-server"
+    },
+    {
+      "domain": "alpha.ac",
+      "url": "https://mcp.alpha.ac/.well-known/mcp-server"
+    },
+    {
+      "domain": "alphavantage.co",
+      "url": "https://mcp.alphavantage.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "alpic.ai",
+      "url": "https://mcp.alpic.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "alpy.com",
+      "url": "https://mcp.alpy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alterdomus.com",
+      "url": "https://mcp.alterdomus.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "altertable.ai",
+      "url": "https://mcp.altertable.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "altfins.com",
+      "url": "https://mcp.altfins.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "altfndata.com",
+      "url": "https://mcp.altfndata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "altios.ai",
+      "url": "https://mcp.altios.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "altuspower.com",
+      "url": "https://mcp.altuspower.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "alvoradams.com.br",
+      "url": "https://mcp.alvoradams.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "amalgamrx.com",
+      "url": "https://mcp.amalgamrx.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amarix.com",
+      "url": "https://mcp.amarix.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amass.tech",
+      "url": "https://mcp.amass.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "ambarpartners.com",
+      "url": "https://mcp.ambarpartners.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amentum.io",
+      "url": "https://mcp.amentum.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "amityage.com",
+      "url": "https://mcp.amityage.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ammp.io",
+      "url": "https://mcp.ammp.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "amove.io",
+      "url": "https://mcp.amove.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "amperity.com",
+      "url": "https://mcp.amperity.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amplifier.com",
+      "url": "https://mcp.amplifier.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amplitude.com",
+      "url": "https://mcp.amplitude.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ams-osram.com",
+      "url": "https://mcp.ams-osram.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "amt.ai",
+      "url": "https://mcp.amt.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "anca.com",
+      "url": "https://mcp.anca.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "and.com",
+      "url": "https://mcp.and.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "andcapitalventures.com",
+      "url": "https://mcp.andcapitalventures.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "andiron.ai",
+      "url": "https://mcp.andiron.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "ando.so",
+      "url": "https://mcp.ando.so/.well-known/mcp-server"
+    },
+    {
+      "domain": "aneon.at",
+      "url": "https://mcp.aneon.at/.well-known/mcp-server"
+    },
+    {
+      "domain": "aniamanagement.com",
+      "url": "https://mcp.aniamanagement.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "animaj.com",
+      "url": "https://mcp.animaj.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "anomalycapital.com",
+      "url": "https://mcp.anomalycapital.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "antavo.com",
+      "url": "https://mcp.antavo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "antbuddy.com",
+      "url": "https://mcp.antbuddy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "antimetal.com",
+      "url": "https://mcp.antimetal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "antler.co",
+      "url": "https://mcp.antler.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "antsomi.com",
+      "url": "https://mcp.antsomi.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "anyonehome.com",
+      "url": "https://mcp.anyonehome.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apaleo.com",
+      "url": "https://mcp.apaleo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aparti.ai",
+      "url": "https://mcp.aparti.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aperture.london",
+      "url": "https://mcp.aperture.london/.well-known/mcp-server"
+    },
+    {
+      "domain": "api-and-you.com",
+      "url": "https://mcp.api-and-you.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apicbase.com",
+      "url": "https://mcp.apicbase.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apify.com",
+      "url": "https://mcp.apify.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apolline.art",
+      "url": "https://mcp.apolline.art/.well-known/mcp-server"
+    },
+    {
+      "domain": "apono.io",
+      "url": "https://mcp.apono.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "appcircle.io",
+      "url": "https://mcp.appcircle.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "appcues.com",
+      "url": "https://mcp.appcues.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "appflow.ai",
+      "url": "https://mcp.appflow.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "appliedmetatheory.org",
+      "url": "https://mcp.appliedmetatheory.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "applypass.com",
+      "url": "https://mcp.applypass.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "appmedo.com",
+      "url": "https://mcp.appmedo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apprecio.com",
+      "url": "https://mcp.apprecio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "apter.com.br",
+      "url": "https://mcp.apter.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "aptoide.com",
+      "url": "https://mcp.aptoide.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aqmen.ai",
+      "url": "https://mcp.aqmen.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aquant.ai",
+      "url": "https://mcp.aquant.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aquilax.ai",
+      "url": "https://mcp.aquilax.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aquion.com.au",
+      "url": "https://mcp.aquion.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "arcade.software",
+      "url": "https://mcp.arcade.software/.well-known/mcp-server"
+    },
+    {
+      "domain": "arcadis.com",
+      "url": "https://mcp.arcadis.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "arcananet.com",
+      "url": "https://mcp.arcananet.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "archera.ai",
+      "url": "https://mcp.archera.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "archilogic.com",
+      "url": "https://mcp.archilogic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "arcwise.app",
+      "url": "https://mcp.arcwise.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "are.na",
+      "url": "https://mcp.are.na/.well-known/mcp-server"
+    },
+    {
+      "domain": "arena.com.tr",
+      "url": "https://mcp.arena.com.tr/.well-known/mcp-server"
+    },
+    {
+      "domain": "aries.com",
+      "url": "https://mcp.aries.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aris.in",
+      "url": "https://mcp.aris.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "aritium.com",
+      "url": "https://mcp.aritium.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "arll.eu",
+      "url": "https://mcp.arll.eu/.well-known/mcp-server"
+    },
+    {
+      "domain": "armature.tech",
+      "url": "https://mcp.armature.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "armor1.ai",
+      "url": "https://mcp.armor1.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aromatruffle.com",
+      "url": "https://mcp.aromatruffle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aroya.io",
+      "url": "https://mcp.aroya.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "arta.ch",
+      "url": "https://mcp.arta.ch/.well-known/mcp-server"
+    },
+    {
+      "domain": "artblocks.io",
+      "url": "https://mcp.artblocks.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "artemis.ai",
+      "url": "https://mcp.artemis.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "arternal.com",
+      "url": "https://mcp.arternal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "articulate.com",
+      "url": "https://mcp.articulate.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "artie.com",
+      "url": "https://mcp.artie.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "artofscale.io",
+      "url": "https://mcp.artofscale.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "artxfood.fr",
+      "url": "https://mcp.artxfood.fr/.well-known/mcp-server"
+    },
+    {
+      "domain": "asana.com",
+      "url": "https://mcp.asana.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ascendancy.co",
+      "url": "https://mcp.ascendancy.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "ascgroup.net",
+      "url": "https://mcp.ascgroup.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "ashbyhq.com",
+      "url": "https://mcp.ashbyhq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "askable.com",
+      "url": "https://mcp.askable.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "askturing.ai",
+      "url": "https://mcp.askturing.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aspirelearning.app",
+      "url": "https://mcp.aspirelearning.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "asset-industrial.com",
+      "url": "https://mcp.asset-industrial.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "asteroid.ai",
+      "url": "https://mcp.asteroid.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "astra-sa.com",
+      "url": "https://mcp.astra-sa.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "astrasync.ai",
+      "url": "https://mcp.astrasync.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "astrologyapi.com",
+      "url": "https://mcp.astrologyapi.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "athenium.com",
+      "url": "https://mcp.athenium.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atiaustralia.edu.au",
+      "url": "https://mcp.atiaustralia.edu.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "atlan.com",
+      "url": "https://mcp.atlan.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atlar.com",
+      "url": "https://mcp.atlar.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atlaspeople.io",
+      "url": "https://mcp.atlaspeople.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "atlasx.co",
+      "url": "https://mcp.atlasx.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "atlys.com",
+      "url": "https://mcp.atlys.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atm-maggioli.es",
+      "url": "https://mcp.atm-maggioli.es/.well-known/mcp-server"
+    },
+    {
+      "domain": "atom.com",
+      "url": "https://mcp.atom.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atomic.supply",
+      "url": "https://mcp.atomic.supply/.well-known/mcp-server"
+    },
+    {
+      "domain": "atominvest.co",
+      "url": "https://mcp.atominvest.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "atqor.com",
+      "url": "https://mcp.atqor.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "atriumdata.ai",
+      "url": "https://mcp.atriumdata.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "attio.com",
+      "url": "https://mcp.attio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "attomdata.com",
+      "url": "https://mcp.attomdata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "attributionapp.com",
+      "url": "https://mcp.attributionapp.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "audens-avocats.com",
+      "url": "https://mcp.audens-avocats.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "audible.com",
+      "url": "https://mcp.audible.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "audiencelab.io",
+      "url": "https://mcp.audiencelab.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "audiopod.ai",
+      "url": "https://mcp.audiopod.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "audioscape.ai",
+      "url": "https://mcp.audioscape.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "auglio.com",
+      "url": "https://mcp.auglio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "augursecurity.com",
+      "url": "https://mcp.augursecurity.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "aurait.ai",
+      "url": "https://mcp.aurait.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "aurelian.com",
+      "url": "https://mcp.aurelian.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "austintechnology.com.au",
+      "url": "https://mcp.austintechnology.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "authing.cn",
+      "url": "https://mcp.authing.cn/.well-known/mcp-server"
+    },
+    {
+      "domain": "authzed.com",
+      "url": "https://mcp.authzed.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "autobahnporsche.com",
+      "url": "https://mcp.autobahnporsche.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "autobooks.co",
+      "url": "https://mcp.autobooks.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "autonimate.com",
+      "url": "https://mcp.autonimate.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "autosana.ai",
+      "url": "https://mcp.autosana.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "avalara.com",
+      "url": "https://mcp.avalara.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "avertro.com",
+      "url": "https://mcp.avertro.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "avmap.it",
+      "url": "https://mcp.avmap.it/.well-known/mcp-server"
+    },
+    {
+      "domain": "avo.app",
+      "url": "https://mcp.avo.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "avoma.com",
+      "url": "https://mcp.avoma.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "awo.agency",
+      "url": "https://mcp.awo.agency/.well-known/mcp-server"
+    },
+    {
+      "domain": "axify.io",
+      "url": "https://mcp.axify.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "axiocap.com",
+      "url": "https://mcp.axiocap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "axiom.co",
+      "url": "https://mcp.axiom.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "axiommath.ai",
+      "url": "https://mcp.axiommath.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "ayana.com",
+      "url": "https://mcp.ayana.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "azion.com",
+      "url": "https://mcp.azion.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "azxa.io",
+      "url": "https://mcp.azxa.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "b.capital",
+      "url": "https://mcp.b.capital/.well-known/mcp-server"
+    },
+    {
+      "domain": "b12.io",
+      "url": "https://mcp.b12.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "babbl-labs.com",
+      "url": "https://mcp.babbl-labs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "babyjourney.se",
+      "url": "https://mcp.babyjourney.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "backstage.com",
+      "url": "https://mcp.backstage.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "backstory.ai",
+      "url": "https://mcp.backstory.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "backyardbrains.com",
+      "url": "https://mcp.backyardbrains.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "badgermapping.com",
+      "url": "https://mcp.badgermapping.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "badideas.fund",
+      "url": "https://mcp.badideas.fund/.well-known/mcp-server"
+    },
+    {
+      "domain": "bagel.ai",
+      "url": "https://mcp.bagel.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bajajbroking.in",
+      "url": "https://mcp.bajajbroking.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "banked.com",
+      "url": "https://mcp.banked.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "barakadates.com",
+      "url": "https://mcp.barakadates.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "baredfootwear.com",
+      "url": "https://mcp.baredfootwear.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "baremetrics.com",
+      "url": "https://mcp.baremetrics.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "barrowscs.com",
+      "url": "https://mcp.barrowscs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "base.org",
+      "url": "https://mcp.base.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "base39.com.br",
+      "url": "https://mcp.base39.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "base8.io",
+      "url": "https://mcp.base8.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "basicops.com",
+      "url": "https://mcp.basicops.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "baston.com.br",
+      "url": "https://mcp.baston.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "battery.com",
+      "url": "https://mcp.battery.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "baxtel.com",
+      "url": "https://mcp.baxtel.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bazaart.com",
+      "url": "https://mcp.bazaart.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bazaro.se",
+      "url": "https://mcp.bazaro.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "bazze.io",
+      "url": "https://mcp.bazze.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "bdex.com",
+      "url": "https://mcp.bdex.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bdg.io",
+      "url": "https://mcp.bdg.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "bdtax.com.bd",
+      "url": "https://mcp.bdtax.com.bd/.well-known/mcp-server"
+    },
+    {
+      "domain": "be.impact",
+      "url": "https://mcp.be.impact/.well-known/mcp-server"
+    },
+    {
+      "domain": "beachbossinfluencers.com",
+      "url": "https://mcp.beachbossinfluencers.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beannbeancoffee.com",
+      "url": "https://mcp.beannbeancoffee.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beaufort12.com",
+      "url": "https://mcp.beaufort12.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beautech.aero",
+      "url": "https://mcp.beautech.aero/.well-known/mcp-server"
+    },
+    {
+      "domain": "bebakids.com",
+      "url": "https://mcp.bebakids.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "becomap.com",
+      "url": "https://mcp.becomap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beemdata.com",
+      "url": "https://mcp.beemdata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beetshospitality.com",
+      "url": "https://mcp.beetshospitality.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beforeyoubuy.com.au",
+      "url": "https://mcp.beforeyoubuy.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "befreed.ai",
+      "url": "https://mcp.befreed.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "begolden.com.pl",
+      "url": "https://mcp.begolden.com.pl/.well-known/mcp-server"
+    },
+    {
+      "domain": "beimpact.org",
+      "url": "https://mcp.beimpact.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "bellwetherit.com",
+      "url": "https://mcp.bellwetherit.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "benchmarkminerals.com",
+      "url": "https://mcp.benchmarkminerals.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bendy.nl",
+      "url": "https://mcp.bendy.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "bentleylewis.com",
+      "url": "https://mcp.bentleylewis.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bentoengine.com",
+      "url": "https://mcp.bentoengine.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "besample.app",
+      "url": "https://mcp.besample.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "besignal.com",
+      "url": "https://mcp.besignal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "better-auth.com",
+      "url": "https://mcp.better-auth.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "betterbugs.io",
+      "url": "https://mcp.betterbugs.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "betterleap.com",
+      "url": "https://mcp.betterleap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "betterstack.com",
+      "url": "https://mcp.betterstack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beveldata.com",
+      "url": "https://mcp.beveldata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "beverage360.io",
+      "url": "https://mcp.beverage360.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "beycome.com",
+      "url": "https://mcp.beycome.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bfl.ai",
+      "url": "https://mcp.bfl.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bidprime.com",
+      "url": "https://mcp.bidprime.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bigdata.com",
+      "url": "https://mcp.bigdata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bigenius-x.com",
+      "url": "https://mcp.bigenius-x.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "biggeo.com",
+      "url": "https://mcp.biggeo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "billd.com",
+      "url": "https://mcp.billd.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "billygrace.com",
+      "url": "https://mcp.billygrace.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "binclusive.io",
+      "url": "https://mcp.binclusive.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "binderr.com",
+      "url": "https://mcp.binderr.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "binetz.com",
+      "url": "https://mcp.binetz.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "birdeye.so",
+      "url": "https://mcp.birdeye.so/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitcoin.com",
+      "url": "https://mcp.bitcoin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitmovin.com",
+      "url": "https://mcp.bitmovin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bito.ai",
+      "url": "https://mcp.bito.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitpanda.com",
+      "url": "https://mcp.bitpanda.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitrise.io",
+      "url": "https://mcp.bitrise.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitsight.com",
+      "url": "https://mcp.bitsight.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bitsila.com",
+      "url": "https://mcp.bitsila.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bixisoft.com",
+      "url": "https://mcp.bixisoft.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bizaway.com",
+      "url": "https://mcp.bizaway.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bizstream.com",
+      "url": "https://mcp.bizstream.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bksonline.nl",
+      "url": "https://mcp.bksonline.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "blanche-capital.fr",
+      "url": "https://mcp.blanche-capital.fr/.well-known/mcp-server"
+    },
+    {
+      "domain": "blaze.me",
+      "url": "https://mcp.blaze.me/.well-known/mcp-server"
+    },
+    {
+      "domain": "blazesql.com",
+      "url": "https://mcp.blazesql.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "blend-ai.com",
+      "url": "https://mcp.blend-ai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "blipply.com",
+      "url": "https://mcp.blipply.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bliss.me",
+      "url": "https://mcp.bliss.me/.well-known/mcp-server"
+    },
+    {
+      "domain": "blockbee.io",
+      "url": "https://mcp.blockbee.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "blockscholes.com",
+      "url": "https://mcp.blockscholes.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "blocksize.info",
+      "url": "https://mcp.blocksize.info/.well-known/mcp-server"
+    },
+    {
+      "domain": "bloomberg.com",
+      "url": "https://mcp.bloomberg.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bloomfield.ai",
+      "url": "https://mcp.bloomfield.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bloomreach.com",
+      "url": "https://mcp.bloomreach.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bloque.app",
+      "url": "https://mcp.bloque.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "bluearf.com",
+      "url": "https://mcp.bluearf.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bluefoxgroup.com",
+      "url": "https://mcp.bluefoxgroup.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bluegamma.io",
+      "url": "https://mcp.bluegamma.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "bluente.com",
+      "url": "https://mcp.bluente.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bluetriangle.com",
+      "url": "https://mcp.bluetriangle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bnicapital.com",
+      "url": "https://mcp.bnicapital.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bold-agro.ai",
+      "url": "https://mcp.bold-agro.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "boltontechnology.com",
+      "url": "https://mcp.boltontechnology.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "boluda.com",
+      "url": "https://mcp.boluda.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bonafide.ai",
+      "url": "https://mcp.bonafide.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bonfire.com",
+      "url": "https://mcp.bonfire.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bonnie.ai",
+      "url": "https://mcp.bonnie.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bonuz.market",
+      "url": "https://mcp.bonuz.market/.well-known/mcp-server"
+    },
+    {
+      "domain": "bookline.io",
+      "url": "https://mcp.bookline.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "boom.nl",
+      "url": "https://mcp.boom.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "boombattlebar.com",
+      "url": "https://mcp.boombattlebar.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "boompop.com",
+      "url": "https://mcp.boompop.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "boost.space",
+      "url": "https://mcp.boost.space/.well-known/mcp-server"
+    },
+    {
+      "domain": "boostmyshop.com",
+      "url": "https://mcp.boostmyshop.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "boostsecurity.io",
+      "url": "https://mcp.boostsecurity.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "bosonprotocol.io",
+      "url": "https://mcp.bosonprotocol.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "botpresso.com",
+      "url": "https://mcp.botpresso.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "botsify.com",
+      "url": "https://mcp.botsify.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bounceinsights.com",
+      "url": "https://mcp.bounceinsights.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "box.mk",
+      "url": "https://mcp.box.mk/.well-known/mcp-server"
+    },
+    {
+      "domain": "brainfab.com",
+      "url": "https://mcp.brainfab.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brale.xyz",
+      "url": "https://mcp.brale.xyz/.well-known/mcp-server"
+    },
+    {
+      "domain": "branch.co",
+      "url": "https://mcp.branch.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "brandient.com",
+      "url": "https://mcp.brandient.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brandsmeetcreators.com",
+      "url": "https://mcp.brandsmeetcreators.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "breadcrumbs.app",
+      "url": "https://mcp.breadcrumbs.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "breakthroughsales.io",
+      "url": "https://mcp.breakthroughsales.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "breezy.hr",
+      "url": "https://mcp.breezy.hr/.well-known/mcp-server"
+    },
+    {
+      "domain": "brevo.com",
+      "url": "https://mcp.brevo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bridge.xyz",
+      "url": "https://mcp.bridge.xyz/.well-known/mcp-server"
+    },
+    {
+      "domain": "bridgeai.co.uk",
+      "url": "https://mcp.bridgeai.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "bridgemarketplace.com",
+      "url": "https://mcp.bridgemarketplace.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "briecomterobert.fr",
+      "url": "https://mcp.briecomterobert.fr/.well-known/mcp-server"
+    },
+    {
+      "domain": "brightdome.com",
+      "url": "https://mcp.brightdome.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brightedge.com",
+      "url": "https://mcp.brightedge.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brightidea.com",
+      "url": "https://mcp.brightidea.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brightmls.com",
+      "url": "https://mcp.brightmls.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brombergtranslations.com",
+      "url": "https://mcp.brombergtranslations.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "browserbase.com",
+      "url": "https://mcp.browserbase.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "browserless.io",
+      "url": "https://mcp.browserless.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "brplusa.com",
+      "url": "https://mcp.brplusa.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "brusnika.ru",
+      "url": "https://mcp.brusnika.ru/.well-known/mcp-server"
+    },
+    {
+      "domain": "bryntum.com",
+      "url": "https://mcp.bryntum.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bryter.io",
+      "url": "https://mcp.bryter.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "brytonsport.com",
+      "url": "https://mcp.brytonsport.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "buffer.com",
+      "url": "https://mcp.buffer.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bugasura.io",
+      "url": "https://mcp.bugasura.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "buhochile.com",
+      "url": "https://mcp.buhochile.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "build.ai",
+      "url": "https://mcp.build.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "buildbetter.ai",
+      "url": "https://mcp.buildbetter.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "builderhead.com",
+      "url": "https://mcp.builderhead.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "builders.studio",
+      "url": "https://mcp.builders.studio/.well-known/mcp-server"
+    },
+    {
+      "domain": "buildfire.com",
+      "url": "https://mcp.buildfire.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "buildkite.com",
+      "url": "https://mcp.buildkite.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "buildpeer.com",
+      "url": "https://mcp.buildpeer.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "builtmighty.com",
+      "url": "https://mcp.builtmighty.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bulkpe.in",
+      "url": "https://mcp.bulkpe.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "bullit.ai",
+      "url": "https://mcp.bullit.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "bundesweit.digital",
+      "url": "https://mcp.bundesweit.digital/.well-known/mcp-server"
+    },
+    {
+      "domain": "buycycle.",
+      "url": "https://mcp.buycycle./.well-known/mcp-server"
+    },
+    {
+      "domain": "buycycle.com",
+      "url": "https://mcp.buycycle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bytefederal.com",
+      "url": "https://mcp.bytefederal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bytehide.com",
+      "url": "https://mcp.bytehide.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bytetravel.com",
+      "url": "https://mcp.bytetravel.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "bzigo.com",
+      "url": "https://mcp.bzigo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "c.scale",
+      "url": "https://mcp.c.scale/.well-known/mcp-server"
+    },
+    {
+      "domain": "c3biz.com",
+      "url": "https://mcp.c3biz.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cablesandkits.com",
+      "url": "https://mcp.cablesandkits.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cabsin.org.br",
+      "url": "https://mcp.cabsin.org.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "caffeine.ai",
+      "url": "https://mcp.caffeine.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "caisgroup.com",
+      "url": "https://mcp.caisgroup.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cal.com",
+      "url": "https://mcp.cal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "calendly.com",
+      "url": "https://mcp.calendly.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "caliza.com",
+      "url": "https://mcp.caliza.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "callhippo.com",
+      "url": "https://mcp.callhippo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "callin.io",
+      "url": "https://mcp.callin.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "callpercy.com",
+      "url": "https://mcp.callpercy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cambridge-intelligence.com",
+      "url": "https://mcp.cambridge-intelligence.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cambridgetech.com",
+      "url": "https://mcp.cambridgetech.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "campaignswell.com",
+      "url": "https://mcp.campaignswell.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "campcation.com",
+      "url": "https://mcp.campcation.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "camsbiometrics.com",
+      "url": "https://mcp.camsbiometrics.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "candid.org",
+      "url": "https://mcp.candid.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "cannaspyglass.com",
+      "url": "https://mcp.cannaspyglass.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "canva.cn",
+      "url": "https://mcp.canva.cn/.well-known/mcp-server"
+    },
+    {
+      "domain": "canva.com",
+      "url": "https://mcp.canva.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "canvs.ai",
+      "url": "https://mcp.canvs.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "capably.ai",
+      "url": "https://mcp.capably.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "capmission.ma",
+      "url": "https://mcp.capmission.ma/.well-known/mcp-server"
+    },
+    {
+      "domain": "capptions.com",
+      "url": "https://mcp.capptions.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "capsule.video",
+      "url": "https://mcp.capsule.video/.well-known/mcp-server"
+    },
+    {
+      "domain": "captaindata.com",
+      "url": "https://mcp.captaindata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "carbonarc.ai",
+      "url": "https://mcp.carbonarc.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "carbondefi.xyz",
+      "url": "https://mcp.carbondefi.xyz/.well-known/mcp-server"
+    },
+    {
+      "domain": "carbonstop.net",
+      "url": "https://mcp.carbonstop.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "careflowiq.com",
+      "url": "https://mcp.careflowiq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cargo.one",
+      "url": "https://mcp.cargo.one/.well-known/mcp-server"
+    },
+    {
+      "domain": "cargochief.com",
+      "url": "https://mcp.cargochief.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "carohq.com",
+      "url": "https://mcp.carohq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "carousell.com",
+      "url": "https://mcp.carousell.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "carriyo.com",
+      "url": "https://mcp.carriyo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cars24.com",
+      "url": "https://mcp.cars24.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cartage.club",
+      "url": "https://mcp.cartage.club/.well-known/mcp-server"
+    },
+    {
+      "domain": "casablanca.at",
+      "url": "https://mcp.casablanca.at/.well-known/mcp-server"
+    },
+    {
+      "domain": "casadosaber.com.br",
+      "url": "https://mcp.casadosaber.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "casebook.net",
+      "url": "https://mcp.casebook.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "casestatus.com",
+      "url": "https://mcp.casestatus.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cashcow.com",
+      "url": "https://mcp.cashcow.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cashflowfrog.com",
+      "url": "https://mcp.cashflowfrog.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cashfree.com",
+      "url": "https://mcp.cashfree.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "caspio.com",
+      "url": "https://mcp.caspio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "castawaycustoms.com",
+      "url": "https://mcp.castawaycustoms.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "castlms.com",
+      "url": "https://mcp.castlms.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "catalogit.app",
+      "url": "https://mcp.catalogit.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "catchpoint.com",
+      "url": "https://mcp.catchpoint.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "catsy.com",
+      "url": "https://mcp.catsy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cavai.com",
+      "url": "https://mcp.cavai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cbinsights.com",
+      "url": "https://mcp.cbinsights.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ccare.org.au",
+      "url": "https://mcp.ccare.org.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceel.io",
+      "url": "https://mcp.ceel.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceo-cf.com",
+      "url": "https://mcp.ceo-cf.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceramic.ai",
+      "url": "https://mcp.ceramic.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceres.ai",
+      "url": "https://mcp.ceres.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceresimaging.net",
+      "url": "https://mcp.ceresimaging.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "ceroresiduo.com",
+      "url": "https://mcp.ceroresiduo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cevoid.com",
+      "url": "https://mcp.cevoid.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cevro.ai",
+      "url": "https://mcp.cevro.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cezamemusic.com",
+      "url": "https://mcp.cezamemusic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ch7.com",
+      "url": "https://mcp.ch7.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chainstack.com",
+      "url": "https://mcp.chainstack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "changdobels.se",
+      "url": "https://mcp.changdobels.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "chanjet.com",
+      "url": "https://mcp.chanjet.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "channel99.com",
+      "url": "https://mcp.channel99.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "channelkey.com",
+      "url": "https://mcp.channelkey.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chargebee.com",
+      "url": "https://mcp.chargebee.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chariow.com",
+      "url": "https://mcp.chariow.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chartmetric.com",
+      "url": "https://mcp.chartmetric.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chatfunnel.com.br",
+      "url": "https://mcp.chatfunnel.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "checkhq.com",
+      "url": "https://mcp.checkhq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "checkhub.io",
+      "url": "https://mcp.checkhub.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "checkr.com",
+      "url": "https://mcp.checkr.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cheersin.com",
+      "url": "https://mcp.cheersin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chetto.ai",
+      "url": "https://mcp.chetto.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "chift.eu",
+      "url": "https://mcp.chift.eu/.well-known/mcp-server"
+    },
+    {
+      "domain": "chimnie.com",
+      "url": "https://mcp.chimnie.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chimpx.ai",
+      "url": "https://mcp.chimpx.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "chipax.com",
+      "url": "https://mcp.chipax.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chisellabs.com",
+      "url": "https://mcp.chisellabs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "chonkie.ai",
+      "url": "https://mcp.chonkie.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "chordian.ai",
+      "url": "https://mcp.chordian.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "chowdeck.com",
+      "url": "https://mcp.chowdeck.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ci-hub.com",
+      "url": "https://mcp.ci-hub.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cibc.com",
+      "url": "https://mcp.cibc.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cimri.com",
+      "url": "https://mcp.cimri.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cinch.com",
+      "url": "https://mcp.cinch.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cincopa.com",
+      "url": "https://mcp.cincopa.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cinde.es",
+      "url": "https://mcp.cinde.es/.well-known/mcp-server"
+    },
+    {
+      "domain": "cinode.com",
+      "url": "https://mcp.cinode.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cirra.ai",
+      "url": "https://mcp.cirra.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "civils.ai",
+      "url": "https://mcp.civils.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cizgi.net",
+      "url": "https://mcp.cizgi.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "clappia.com",
+      "url": "https://mcp.clappia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "claravine.com",
+      "url": "https://mcp.claravine.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clarify.io",
+      "url": "https://mcp.clarify.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "clarity.ai",
+      "url": "https://mcp.clarity.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "classavo.com",
+      "url": "https://mcp.classavo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "classdojo.com",
+      "url": "https://mcp.classdojo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "classe365.com",
+      "url": "https://mcp.classe365.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clazar.io",
+      "url": "https://mcp.clazar.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cleanhealthgroup.com",
+      "url": "https://mcp.cleanhealthgroup.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cleanslatedemolition.co.uk",
+      "url": "https://mcp.cleanslatedemolition.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "clearer.io",
+      "url": "https://mcp.clearer.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cleartrip.com",
+      "url": "https://mcp.cleartrip.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clemta.com",
+      "url": "https://mcp.clemta.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cleo.com",
+      "url": "https://mcp.cleo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clerk.ai",
+      "url": "https://mcp.clerk.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "clerk.com",
+      "url": "https://mcp.clerk.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clerk.dev",
+      "url": "https://mcp.clerk.dev/.well-known/mcp-server"
+    },
+    {
+      "domain": "cles.org",
+      "url": "https://mcp.cles.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "cleverly.de",
+      "url": "https://mcp.cleverly.de/.well-known/mcp-server"
+    },
+    {
+      "domain": "clickflare.com",
+      "url": "https://mcp.clickflare.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clickrain.com",
+      "url": "https://mcp.clickrain.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clickup.com",
+      "url": "https://mcp.clickup.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clientacquisition.io",
+      "url": "https://mcp.clientacquisition.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "climateactiondata.org",
+      "url": "https://mcp.climateactiondata.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "climatiq.io",
+      "url": "https://mcp.climatiq.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "clinicadoleite.com.br",
+      "url": "https://mcp.clinicadoleite.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "clint.digital",
+      "url": "https://mcp.clint.digital/.well-known/mcp-server"
+    },
+    {
+      "domain": "clipma.com",
+      "url": "https://mcp.clipma.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clockodo.com",
+      "url": "https://mcp.clockodo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clockworkrecruiting.com",
+      "url": "https://mcp.clockworkrecruiting.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clootrack.com",
+      "url": "https://mcp.clootrack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "close.com",
+      "url": "https://mcp.close.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "closedloop.ai",
+      "url": "https://mcp.closedloop.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudamize.com",
+      "url": "https://mcp.cloudamize.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudcasa.io",
+      "url": "https://mcp.cloudcasa.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudchipr.com",
+      "url": "https://mcp.cloudchipr.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudeagle.ai",
+      "url": "https://mcp.cloudeagle.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudflare.com",
+      "url": "https://mcp.cloudflare.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudglue.dev",
+      "url": "https://mcp.cloudglue.dev/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudgov.ai",
+      "url": "https://mcp.cloudgov.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudshare.com",
+      "url": "https://mcp.cloudshare.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloudsquid.io",
+      "url": "https://mcp.cloudsquid.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cloverleaf.ai",
+      "url": "https://mcp.cloverleaf.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "clozd.com",
+      "url": "https://mcp.clozd.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "clubecerto.com.br",
+      "url": "https://mcp.clubecerto.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "cmercury.com",
+      "url": "https://mcp.cmercury.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coastapp.com",
+      "url": "https://mcp.coastapp.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coc.cv",
+      "url": "https://mcp.coc.cv/.well-known/mcp-server"
+    },
+    {
+      "domain": "cocooncenter.com",
+      "url": "https://mcp.cocooncenter.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "codease.io",
+      "url": "https://mcp.codease.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "codedthemes.com",
+      "url": "https://mcp.codedthemes.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "codegen.com",
+      "url": "https://mcp.codegen.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "codspeed.io",
+      "url": "https://mcp.codspeed.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cofi.ai",
+      "url": "https://mcp.cofi.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cohley.com",
+      "url": "https://mcp.cohley.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coinex.com",
+      "url": "https://mcp.coinex.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coinmarketcap.com",
+      "url": "https://mcp.coinmarketcap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coinpaprika.com",
+      "url": "https://mcp.coinpaprika.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coinquant.ai",
+      "url": "https://mcp.coinquant.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "coinstats.app",
+      "url": "https://mcp.coinstats.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "coliving.com",
+      "url": "https://mcp.coliving.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "collegepulse.com",
+      "url": "https://mcp.collegepulse.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "combidesk.com",
+      "url": "https://mcp.combidesk.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "comet.rocks",
+      "url": "https://mcp.comet.rocks/.well-known/mcp-server"
+    },
+    {
+      "domain": "cometchat.com",
+      "url": "https://mcp.cometchat.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "comillas.edu",
+      "url": "https://mcp.comillas.edu/.well-known/mcp-server"
+    },
+    {
+      "domain": "commandcode.ai",
+      "url": "https://mcp.commandcode.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "commented.io",
+      "url": "https://mcp.commented.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "commonroom.io",
+      "url": "https://mcp.commonroom.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "commonscompany.com",
+      "url": "https://mcp.commonscompany.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "community.com",
+      "url": "https://mcp.community.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "communitypluscare.ca",
+      "url": "https://mcp.communitypluscare.ca/.well-known/mcp-server"
+    },
+    {
+      "domain": "companion.energy",
+      "url": "https://mcp.companion.energy/.well-known/mcp-server"
+    },
+    {
+      "domain": "companyenrich.com",
+      "url": "https://mcp.companyenrich.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "compiler-explorer.com",
+      "url": "https://mcp.compiler-explorer.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "compliancely.com",
+      "url": "https://mcp.compliancely.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "comscore.com",
+      "url": "https://mcp.comscore.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "concord.app",
+      "url": "https://mcp.concord.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "cones.com",
+      "url": "https://mcp.cones.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "confident-ai.com",
+      "url": "https://mcp.confident-ai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "conjura.com",
+      "url": "https://mcp.conjura.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "connect-x.tech",
+      "url": "https://mcp.connect-x.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "consensus.app",
+      "url": "https://mcp.consensus.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "constructions-3d.com",
+      "url": "https://mcp.constructions-3d.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "construflow.com.br",
+      "url": "https://mcp.construflow.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "consultant.net.ua",
+      "url": "https://mcp.consultant.net.ua/.well-known/mcp-server"
+    },
+    {
+      "domain": "contable.app",
+      "url": "https://mcp.contable.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "contaja.com.br",
+      "url": "https://mcp.contaja.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "content.one",
+      "url": "https://mcp.content.one/.well-known/mcp-server"
+    },
+    {
+      "domain": "contentcatalyst.com",
+      "url": "https://mcp.contentcatalyst.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "contentful.com",
+      "url": "https://mcp.contentful.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "contentignite.com",
+      "url": "https://mcp.contentignite.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "contentstudio.io",
+      "url": "https://mcp.contentstudio.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "conteshop.nl",
+      "url": "https://mcp.conteshop.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "contextqa.com",
+      "url": "https://mcp.contextqa.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "continue.co",
+      "url": "https://mcp.continue.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "contractworkplaces.com",
+      "url": "https://mcp.contractworkplaces.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "controlle.com",
+      "url": "https://mcp.controlle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "converge.it",
+      "url": "https://mcp.converge.it/.well-known/mcp-server"
+    },
+    {
+      "domain": "conversionmediagroup.com",
+      "url": "https://mcp.conversionmediagroup.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "convertor.se",
+      "url": "https://mcp.convertor.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "convesio.com",
+      "url": "https://mcp.convesio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "convex.dev",
+      "url": "https://mcp.convex.dev/.well-known/mcp-server"
+    },
+    {
+      "domain": "conveyor.com",
+      "url": "https://mcp.conveyor.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "conviva.ai",
+      "url": "https://mcp.conviva.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "coolset.com",
+      "url": "https://mcp.coolset.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coolshop.com",
+      "url": "https://mcp.coolshop.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cooroundtable.com",
+      "url": "https://mcp.cooroundtable.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "copilot.money",
+      "url": "https://mcp.copilot.money/.well-known/mcp-server"
+    },
+    {
+      "domain": "copilotkit.ai",
+      "url": "https://mcp.copilotkit.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cordova.com",
+      "url": "https://mcp.cordova.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coresignal.com",
+      "url": "https://mcp.coresignal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coretava.com",
+      "url": "https://mcp.coretava.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coris.ai",
+      "url": "https://mcp.coris.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "corneliajames.com",
+      "url": "https://mcp.corneliajames.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coros.com",
+      "url": "https://mcp.coros.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cortea.ai",
+      "url": "https://mcp.cortea.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cortex.io",
+      "url": "https://mcp.cortex.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cosmitude.com",
+      "url": "https://mcp.cosmitude.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "costplusdrugs.com",
+      "url": "https://mcp.costplusdrugs.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cotality.com",
+      "url": "https://mcp.cotality.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cottages.com",
+      "url": "https://mcp.cottages.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coupler.io",
+      "url": "https://mcp.coupler.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "courier.com",
+      "url": "https://mcp.courier.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "coval.ai",
+      "url": "https://mcp.coval.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "covu.com",
+      "url": "https://mcp.covu.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cpic.or.cr",
+      "url": "https://mcp.cpic.or.cr/.well-known/mcp-server"
+    },
+    {
+      "domain": "cplace.com",
+      "url": "https://mcp.cplace.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cquencehealth.com",
+      "url": "https://mcp.cquencehealth.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "craft.io",
+      "url": "https://mcp.craft.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "creatordb.app",
+      "url": "https://mcp.creatordb.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "credibledata.com",
+      "url": "https://mcp.credibledata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "creditmountain.co",
+      "url": "https://mcp.creditmountain.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "credix.finance",
+      "url": "https://mcp.credix.finance/.well-known/mcp-server"
+    },
+    {
+      "domain": "credplatform.com",
+      "url": "https://mcp.credplatform.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "credyt.ai",
+      "url": "https://mcp.credyt.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cremedelacreme.io",
+      "url": "https://mcp.cremedelacreme.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "crewos.io",
+      "url": "https://mcp.crewos.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "crono.one",
+      "url": "https://mcp.crono.one/.well-known/mcp-server"
+    },
+    {
+      "domain": "crossbeam.com",
+      "url": "https://mcp.crossbeam.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "crowdfox.pro",
+      "url": "https://mcp.crowdfox.pro/.well-known/mcp-server"
+    },
+    {
+      "domain": "crowdin.com",
+      "url": "https://mcp.crowdin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "crowdreply.io",
+      "url": "https://mcp.crowdreply.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "crstl.ai",
+      "url": "https://mcp.crstl.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "crustdata.com",
+      "url": "https://mcp.crustdata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cruva.com",
+      "url": "https://mcp.cruva.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cruworldwine.com",
+      "url": "https://mcp.cruworldwine.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "crypto.com",
+      "url": "https://mcp.crypto.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cryptoquant.com",
+      "url": "https://mcp.cryptoquant.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cryptorefills.com",
+      "url": "https://mcp.cryptorefills.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "crystalknows.com",
+      "url": "https://mcp.crystalknows.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "crystallize.com",
+      "url": "https://mcp.crystallize.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cscale.io",
+      "url": "https://mcp.cscale.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "csllcnow.com",
+      "url": "https://mcp.csllcnow.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cst.co.uk",
+      "url": "https://mcp.cst.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "cta.tech",
+      "url": "https://mcp.cta.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "cuballama.com",
+      "url": "https://mcp.cuballama.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cubesoftware.com",
+      "url": "https://mcp.cubesoftware.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cubitrek.com",
+      "url": "https://mcp.cubitrek.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cuckooworkout.com",
+      "url": "https://mcp.cuckooworkout.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cuelinks.com",
+      "url": "https://mcp.cuelinks.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cuemath.com",
+      "url": "https://mcp.cuemath.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cumar.com.ar",
+      "url": "https://mcp.cumar.com.ar/.well-known/mcp-server"
+    },
+    {
+      "domain": "cumbuca.com",
+      "url": "https://mcp.cumbuca.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "curate.co",
+      "url": "https://mcp.curate.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "curemedia.com",
+      "url": "https://mcp.curemedia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "curri.com",
+      "url": "https://mcp.curri.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cushingterrell.com",
+      "url": "https://mcp.cushingterrell.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cusip.com",
+      "url": "https://mcp.cusip.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "customer.io",
+      "url": "https://mcp.customer.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "customerly.io",
+      "url": "https://mcp.customerly.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "customerscore.io",
+      "url": "https://mcp.customerscore.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "customily.com",
+      "url": "https://mcp.customily.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cuure.com",
+      "url": "https://mcp.cuure.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cxplanner.com",
+      "url": "https://mcp.cxplanner.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cyberday.ai",
+      "url": "https://mcp.cyberday.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "cyberwave.com",
+      "url": "https://mcp.cyberwave.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cycloid.io",
+      "url": "https://mcp.cycloid.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "cymulate.com",
+      "url": "https://mcp.cymulate.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "cypress.io",
+      "url": "https://mcp.cypress.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "daemo.ai",
+      "url": "https://mcp.daemo.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "daloopa.com",
+      "url": "https://mcp.daloopa.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dana.id",
+      "url": "https://mcp.dana.id/.well-known/mcp-server"
+    },
+    {
+      "domain": "dancingdeadrecords.com",
+      "url": "https://mcp.dancingdeadrecords.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "danelfin.com",
+      "url": "https://mcp.danelfin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "daniel-ip.com",
+      "url": "https://mcp.daniel-ip.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dapta.ai",
+      "url": "https://mcp.dapta.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "darkmatter.is",
+      "url": "https://mcp.darkmatter.is/.well-known/mcp-server"
+    },
+    {
+      "domain": "dartai.com",
+      "url": "https://mcp.dartai.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dash.fi",
+      "url": "https://mcp.dash.fi/.well-known/mcp-server"
+    },
+    {
+      "domain": "dashbo.io",
+      "url": "https://mcp.dashbo.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "dashsocial.com",
+      "url": "https://mcp.dashsocial.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "data-axle.com",
+      "url": "https://mcp.data-axle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "data.gouv.fr",
+      "url": "https://mcp.data.gouv.fr/.well-known/mcp-server"
+    },
+    {
+      "domain": "databar.ai",
+      "url": "https://mcp.databar.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "databox.com",
+      "url": "https://mcp.databox.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datadome.co",
+      "url": "https://mcp.datadome.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataforma.com",
+      "url": "https://mcp.dataforma.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataforseo.com",
+      "url": "https://mcp.dataforseo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datagol.ai",
+      "url": "https://mcp.datagol.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "datahawk.co",
+      "url": "https://mcp.datahawk.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "datahub.com",
+      "url": "https://mcp.datahub.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datalinks.com",
+      "url": "https://mcp.datalinks.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datamaran.com",
+      "url": "https://mcp.datamaran.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datanomik.com",
+      "url": "https://mcp.datanomik.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataplor.com",
+      "url": "https://mcp.dataplor.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datapolicy.co",
+      "url": "https://mcp.datapolicy.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataprovider.com",
+      "url": "https://mcp.dataprovider.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datarails.com",
+      "url": "https://mcp.datarails.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataslayer.ai",
+      "url": "https://mcp.dataslayer.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "dataspike.io",
+      "url": "https://mcp.dataspike.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "datayes.com",
+      "url": "https://mcp.datayes.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "datocms.com",
+      "url": "https://mcp.datocms.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dcluttr.ai",
+      "url": "https://mcp.dcluttr.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "dcm-inc.com",
+      "url": "https://mcp.dcm-inc.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dcycle.io",
+      "url": "https://mcp.dcycle.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "dealmachine.com",
+      "url": "https://mcp.dealmachine.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dealroom.co",
+      "url": "https://mcp.dealroom.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "dealsplus.io",
+      "url": "https://mcp.dealsplus.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "deapi.ai",
+      "url": "https://mcp.deapi.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "decaid.ai",
+      "url": "https://mcp.decaid.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "dedaluslabs.ai",
+      "url": "https://mcp.dedaluslabs.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "deducta.ai",
+      "url": "https://mcp.deducta.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "deepfaic.com",
+      "url": "https://mcp.deepfaic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deepfreeze.com.br",
+      "url": "https://mcp.deepfreeze.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "deepidv.com",
+      "url": "https://mcp.deepidv.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deepintent.com",
+      "url": "https://mcp.deepintent.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deeploy.ai",
+      "url": "https://mcp.deeploy.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "deepsource.com",
+      "url": "https://mcp.deepsource.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "defactotech.com",
+      "url": "https://mcp.defactotech.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "defense.com",
+      "url": "https://mcp.defense.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "defense.com\u2122",
+      "url": "https://mcp.defense.com\u2122/.well-known/mcp-server"
+    },
+    {
+      "domain": "deficarrot.com",
+      "url": "https://mcp.deficarrot.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "delta.app",
+      "url": "https://mcp.delta.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "deltax.la",
+      "url": "https://mcp.deltax.la/.well-known/mcp-server"
+    },
+    {
+      "domain": "democracy.works",
+      "url": "https://mcp.democracy.works/.well-known/mcp-server"
+    },
+    {
+      "domain": "demola.net",
+      "url": "https://mcp.demola.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "demostack.com",
+      "url": "https://mcp.demostack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dennislawgh.com",
+      "url": "https://mcp.dennislawgh.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deonlinedrogist.nl",
+      "url": "https://mcp.deonlinedrogist.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "desch.com",
+      "url": "https://mcp.desch.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "descope.com",
+      "url": "https://mcp.descope.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deskea.com",
+      "url": "https://mcp.deskea.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deskfirst.com",
+      "url": "https://mcp.deskfirst.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "deso.com",
+      "url": "https://mcp.deso.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "detrack.com",
+      "url": "https://mcp.detrack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "detrics.io",
+      "url": "https://mcp.detrics.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "devally.com",
+      "url": "https://mcp.devally.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "devcycle.com",
+      "url": "https://mcp.devcycle.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "devdynamics.ai",
+      "url": "https://mcp.devdynamics.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "devin.ai",
+      "url": "https://mcp.devin.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "devxhub.com",
+      "url": "https://mcp.devxhub.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dgline.it",
+      "url": "https://mcp.dgline.it/.well-known/mcp-server"
+    },
+    {
+      "domain": "dhan.co",
+      "url": "https://mcp.dhan.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "dice.com",
+      "url": "https://mcp.dice.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dichiarofacile.it",
+      "url": "https://mcp.dichiarofacile.it/.well-known/mcp-server"
+    },
+    {
+      "domain": "didlogic.com",
+      "url": "https://mcp.didlogic.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "diffbot.com",
+      "url": "https://mcp.diffbot.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "diffly.co",
+      "url": "https://mcp.diffly.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "digibull.ai",
+      "url": "https://mcp.digibull.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "digioh.com",
+      "url": "https://mcp.digioh.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "digistore24.com",
+      "url": "https://mcp.digistore24.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "digital-masters.de",
+      "url": "https://mcp.digital-masters.de/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitald.tech",
+      "url": "https://mcp.digitald.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitaldeluxe.com.au",
+      "url": "https://mcp.digitaldeluxe.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitaldtech.com",
+      "url": "https://mcp.digitaldtech.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitalhamster.com",
+      "url": "https://mcp.digitalhamster.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitaloriginal.app",
+      "url": "https://mcp.digitaloriginal.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitalpages.com.br",
+      "url": "https://mcp.digitalpages.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitalpolicyalert.org",
+      "url": "https://mcp.digitalpolicyalert.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitalsamba.com",
+      "url": "https://mcp.digitalsamba.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "digitalsurge.com.au",
+      "url": "https://mcp.digitalsurge.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "digoo-it.com",
+      "url": "https://mcp.digoo-it.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dimoauto.com",
+      "url": "https://mcp.dimoauto.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dingtalk.com",
+      "url": "https://mcp.dingtalk.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "discovercars.com",
+      "url": "https://mcp.discovercars.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dispatchit.com",
+      "url": "https://mcp.dispatchit.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "distil.ai",
+      "url": "https://mcp.distil.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "dizzain.com",
+      "url": "https://mcp.dizzain.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dj.studio",
+      "url": "https://mcp.dj.studio/.well-known/mcp-server"
+    },
+    {
+      "domain": "dm.de",
+      "url": "https://mcp.dm.de/.well-known/mcp-server"
+    },
+    {
+      "domain": "dma-group.co.uk",
+      "url": "https://mcp.dma-group.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "dmgmori.com",
+      "url": "https://mcp.dmgmori.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dng.ai",
+      "url": "https://mcp.dng.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "dobbyads.com",
+      "url": "https://mcp.dobbyads.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "docsautomator.co",
+      "url": "https://mcp.docsautomator.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "doctranslate.io",
+      "url": "https://mcp.doctranslate.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "dodopayments.com",
+      "url": "https://mcp.dodopayments.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "doit.com",
+      "url": "https://mcp.doit.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dokaa.app",
+      "url": "https://mcp.dokaa.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "doktormartin.sk",
+      "url": "https://mcp.doktormartin.sk/.well-known/mcp-server"
+    },
+    {
+      "domain": "doktorsitesi.com",
+      "url": "https://mcp.doktorsitesi.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "doku.com",
+      "url": "https://mcp.doku.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dometrain.com",
+      "url": "https://mcp.dometrain.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "doola.com",
+      "url": "https://mcp.doola.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dorsia.com",
+      "url": "https://mcp.dorsia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dotter.me",
+      "url": "https://mcp.dotter.me/.well-known/mcp-server"
+    },
+    {
+      "domain": "dottopia.com",
+      "url": "https://mcp.dottopia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "doubletick.io",
+      "url": "https://mcp.doubletick.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "drakerep.com",
+      "url": "https://mcp.drakerep.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "drata.com",
+      "url": "https://mcp.drata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dreamlit.ai",
+      "url": "https://mcp.dreamlit.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "driva.io",
+      "url": "https://mcp.driva.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "drivana.mx",
+      "url": "https://mcp.drivana.mx/.well-known/mcp-server"
+    },
+    {
+      "domain": "drivops.com",
+      "url": "https://mcp.drivops.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "drmobile.com.br",
+      "url": "https://mcp.drmobile.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "dromeiot.com",
+      "url": "https://mcp.dromeiot.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dronahq.com",
+      "url": "https://mcp.dronahq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dronedeploy.com",
+      "url": "https://mcp.dronedeploy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "droners.io",
+      "url": "https://mcp.droners.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "dronus.com",
+      "url": "https://mcp.dronus.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dropcontact.com",
+      "url": "https://mcp.dropcontact.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dropcowboy.com",
+      "url": "https://mcp.dropcowboy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "drtaerospace.com",
+      "url": "https://mcp.drtaerospace.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "drugbank.com",
+      "url": "https://mcp.drugbank.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dstillery.com",
+      "url": "https://mcp.dstillery.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dubaisc.ae",
+      "url": "https://mcp.dubaisc.ae/.well-known/mcp-server"
+    },
+    {
+      "domain": "duda.co",
+      "url": "https://mcp.duda.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "duelapay.com",
+      "url": "https://mcp.duelapay.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dukascopy.com",
+      "url": "https://mcp.dukascopy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dynamicmockups.com",
+      "url": "https://mcp.dynamicmockups.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "dynamicore.io",
+      "url": "https://mcp.dynamicore.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "dyvenia.com",
+      "url": "https://mcp.dyvenia.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "e-cruce.com",
+      "url": "https://mcp.e-cruce.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "e-gineering.com",
+      "url": "https://mcp.e-gineering.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "e37.se",
+      "url": "https://mcp.e37.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "e4k.co",
+      "url": "https://mcp.e4k.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "easesolutions.com",
+      "url": "https://mcp.easesolutions.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eastelectricalsupply.com",
+      "url": "https://mcp.eastelectricalsupply.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "easycomp.ai",
+      "url": "https://mcp.easycomp.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "easydmarc.com",
+      "url": "https://mcp.easydmarc.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "easyleadz.com",
+      "url": "https://mcp.easyleadz.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "easyship.com",
+      "url": "https://mcp.easyship.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ecair.eco",
+      "url": "https://mcp.ecair.eco/.well-known/mcp-server"
+    },
+    {
+      "domain": "ecdb.com",
+      "url": "https://mcp.ecdb.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "echo.ai",
+      "url": "https://mcp.echo.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "echomotion.ai",
+      "url": "https://mcp.echomotion.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "economicmind.com",
+      "url": "https://mcp.economicmind.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "economybookings.com",
+      "url": "https://mcp.economybookings.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ecosystem.ai",
+      "url": "https://mcp.ecosystem.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "eden.so",
+      "url": "https://mcp.eden.so/.well-known/mcp-server"
+    },
+    {
+      "domain": "edgetier.com",
+      "url": "https://mcp.edgetier.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "edgevana.com",
+      "url": "https://mcp.edgevana.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "edgewaterresearch.com",
+      "url": "https://mcp.edgewaterresearch.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "edito-pdf.com",
+      "url": "https://mcp.edito-pdf.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "edittree.in",
+      "url": "https://mcp.edittree.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "edustoke.com",
+      "url": "https://mcp.edustoke.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "effectix.com",
+      "url": "https://mcp.effectix.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "efultimatebreak.com",
+      "url": "https://mcp.efultimatebreak.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "einsteinmoving.com",
+      "url": "https://mcp.einsteinmoving.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eka.care",
+      "url": "https://mcp.eka.care/.well-known/mcp-server"
+    },
+    {
+      "domain": "eker.com",
+      "url": "https://mcp.eker.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "el-dokan.com",
+      "url": "https://mcp.el-dokan.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eleanorhealthcaregroup.co.uk",
+      "url": "https://mcp.eleanorhealthcaregroup.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "elementbrooklyn.com",
+      "url": "https://mcp.elementbrooklyn.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "elemera.au",
+      "url": "https://mcp.elemera.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "elevva.co",
+      "url": "https://mcp.elevva.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "eliex.ai",
+      "url": "https://mcp.eliex.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "elitesportstours.com",
+      "url": "https://mcp.elitesportstours.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "elkat.no",
+      "url": "https://mcp.elkat.no/.well-known/mcp-server"
+    },
+    {
+      "domain": "ellipsend.com",
+      "url": "https://mcp.ellipsend.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ellty.com",
+      "url": "https://mcp.ellty.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "elnora.ai",
+      "url": "https://mcp.elnora.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "em360tech.com",
+      "url": "https://mcp.em360tech.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "embankment.com",
+      "url": "https://mcp.embankment.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "emerge-tech.io",
+      "url": "https://mcp.emerge-tech.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "enapter.com",
+      "url": "https://mcp.enapter.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "encoda.com",
+      "url": "https://mcp.encoda.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "encompassonsite.com",
+      "url": "https://mcp.encompassonsite.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "endotech.io",
+      "url": "https://mcp.endotech.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "endre.app",
+      "url": "https://mcp.endre.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "enercity.de",
+      "url": "https://mcp.enercity.de/.well-known/mcp-server"
+    },
+    {
+      "domain": "energyaspects.com",
+      "url": "https://mcp.energyaspects.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "energycap.com",
+      "url": "https://mcp.energycap.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "engrate.io",
+      "url": "https://mcp.engrate.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "enigma.com",
+      "url": "https://mcp.enigma.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "enji.co",
+      "url": "https://mcp.enji.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "enlyft.com",
+      "url": "https://mcp.enlyft.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "enric.ai",
+      "url": "https://mcp.enric.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "enrich.so",
+      "url": "https://mcp.enrich.so/.well-known/mcp-server"
+    },
+    {
+      "domain": "enshift.com",
+      "url": "https://mcp.enshift.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "enter.health",
+      "url": "https://mcp.enter.health/.well-known/mcp-server"
+    },
+    {
+      "domain": "entravel.com",
+      "url": "https://mcp.entravel.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "entri.com",
+      "url": "https://mcp.entri.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "entro.security",
+      "url": "https://mcp.entro.security/.well-known/mcp-server"
+    },
+    {
+      "domain": "envato.com",
+      "url": "https://mcp.envato.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "envest.com.tr",
+      "url": "https://mcp.envest.com.tr/.well-known/mcp-server"
+    },
+    {
+      "domain": "enviaflores.com",
+      "url": "https://mcp.enviaflores.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "envoy.com",
+      "url": "https://mcp.envoy.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "envsn.com",
+      "url": "https://mcp.envsn.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eon.io",
+      "url": "https://mcp.eon.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "epam.com",
+      "url": "https://mcp.epam.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "epcvip.com",
+      "url": "https://mcp.epcvip.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "epsilon3.io",
+      "url": "https://mcp.epsilon3.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "ept.ai",
+      "url": "https://mcp.ept.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "equilityhq.com",
+      "url": "https://mcp.equilityhq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eramba.org",
+      "url": "https://mcp.eramba.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "erlin.ai",
+      "url": "https://mcp.erlin.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "escape.tech",
+      "url": "https://mcp.escape.tech/.well-known/mcp-server"
+    },
+    {
+      "domain": "esim.com.br",
+      "url": "https://mcp.esim.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "espm.br",
+      "url": "https://mcp.espm.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "esputnik.com",
+      "url": "https://mcp.esputnik.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "essentiallysports.com",
+      "url": "https://mcp.essentiallysports.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "est-grp.com",
+      "url": "https://mcp.est-grp.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "estarter.co",
+      "url": "https://mcp.estarter.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "estoko.com",
+      "url": "https://mcp.estoko.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "esw.com",
+      "url": "https://mcp.esw.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "etermax.com",
+      "url": "https://mcp.etermax.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "etstur.com",
+      "url": "https://mcp.etstur.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eulerapp.com",
+      "url": "https://mcp.eulerapp.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eunice.ai",
+      "url": "https://mcp.eunice.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "eurekabio.com",
+      "url": "https://mcp.eurekabio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "evcomechanical.com",
+      "url": "https://mcp.evcomechanical.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eventship.com",
+      "url": "https://mcp.eventship.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "everestlabs.ai",
+      "url": "https://mcp.everestlabs.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "evernote.com",
+      "url": "https://mcp.evernote.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "evertrace.ai",
+      "url": "https://mcp.evertrace.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "everwall.com",
+      "url": "https://mcp.everwall.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "everymanjack.com",
+      "url": "https://mcp.everymanjack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "evolve-finance.com",
+      "url": "https://mcp.evolve-finance.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "evrim.ai",
+      "url": "https://mcp.evrim.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "evye.co",
+      "url": "https://mcp.evye.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "exa.ai",
+      "url": "https://mcp.exa.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "excopartners.com",
+      "url": "https://mcp.excopartners.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "exotel.com",
+      "url": "https://mcp.exotel.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "expanso.io",
+      "url": "https://mcp.expanso.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "explorium.ai",
+      "url": "https://mcp.explorium.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "expo.dev",
+      "url": "https://mcp.expo.dev/.well-known/mcp-server"
+    },
+    {
+      "domain": "extend.com",
+      "url": "https://mcp.extend.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eyer.ai",
+      "url": "https://mcp.eyer.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "eykdata.com",
+      "url": "https://mcp.eykdata.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "eztexting.com",
+      "url": "https://mcp.eztexting.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ezurio.com",
+      "url": "https://mcp.ezurio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "facesign.ai",
+      "url": "https://mcp.facesign.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "facilio.com",
+      "url": "https://mcp.facilio.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "factori.ai",
+      "url": "https://mcp.factori.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "facturadirecta.com",
+      "url": "https://mcp.facturadirecta.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "faculti.net",
+      "url": "https://mcp.faculti.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "fairly.com",
+      "url": "https://mcp.fairly.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fakturaonline.cz",
+      "url": "https://mcp.fakturaonline.cz/.well-known/mcp-server"
+    },
+    {
+      "domain": "fal.ai",
+      "url": "https://mcp.fal.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "falconfeeds.io",
+      "url": "https://mcp.falconfeeds.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "familux.com",
+      "url": "https://mcp.familux.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "famousbirthdays.com",
+      "url": "https://mcp.famousbirthdays.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fanalists.com",
+      "url": "https://mcp.fanalists.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "farmley.com",
+      "url": "https://mcp.farmley.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fastbridgefiber.com",
+      "url": "https://mcp.fastbridgefiber.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fastweigh.com",
+      "url": "https://mcp.fastweigh.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "feathershark.com",
+      "url": "https://mcp.feathershark.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fed10.ai",
+      "url": "https://mcp.fed10.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "feeco.com",
+      "url": "https://mcp.feeco.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "feedly.com",
+      "url": "https://mcp.feedly.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "feedspace.io",
+      "url": "https://mcp.feedspace.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fergus.com",
+      "url": "https://mcp.fergus.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ferryhopper.com",
+      "url": "https://mcp.ferryhopper.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "ferryscanner.com",
+      "url": "https://mcp.ferryscanner.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fianu.io",
+      "url": "https://mcp.fianu.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fiber.ai",
+      "url": "https://mcp.fiber.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fifthrow.com",
+      "url": "https://mcp.fifthrow.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "figr.design",
+      "url": "https://mcp.figr.design/.well-known/mcp-server"
+    },
+    {
+      "domain": "file.ai",
+      "url": "https://mcp.file.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "filika.co",
+      "url": "https://mcp.filika.co/.well-known/mcp-server"
+    },
+    {
+      "domain": "finam.ru",
+      "url": "https://mcp.finam.ru/.well-known/mcp-server"
+    },
+    {
+      "domain": "findable.ai",
+      "url": "https://mcp.findable.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "findoctave.com",
+      "url": "https://mcp.findoctave.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "findy-team.io",
+      "url": "https://mcp.findy-team.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "findymail.com",
+      "url": "https://mcp.findymail.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fingertip.com",
+      "url": "https://mcp.fingertip.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "finoptimal.com",
+      "url": "https://mcp.finoptimal.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "finout.io",
+      "url": "https://mcp.finout.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "finpact.ch",
+      "url": "https://mcp.finpact.ch/.well-known/mcp-server"
+    },
+    {
+      "domain": "finthesis.io",
+      "url": "https://mcp.finthesis.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fintoc.com",
+      "url": "https://mcp.fintoc.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fireberry.com",
+      "url": "https://mcp.fireberry.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "firebird.ai",
+      "url": "https://mcp.firebird.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fireflies.ai",
+      "url": "https://mcp.fireflies.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "firmao.pl",
+      "url": "https://mcp.firmao.pl/.well-known/mcp-server"
+    },
+    {
+      "domain": "firstlight.farm",
+      "url": "https://mcp.firstlight.farm/.well-known/mcp-server"
+    },
+    {
+      "domain": "fitbod.me",
+      "url": "https://mcp.fitbod.me/.well-known/mcp-server"
+    },
+    {
+      "domain": "fitsamerica.com",
+      "url": "https://mcp.fitsamerica.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fl3xx.com",
+      "url": "https://mcp.fl3xx.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flalingo.com",
+      "url": "https://mcp.flalingo.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flashbots.net",
+      "url": "https://mcp.flashbots.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "flashvote.com",
+      "url": "https://mcp.flashvote.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flavorcloud.com",
+      "url": "https://mcp.flavorcloud.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fleetx.io",
+      "url": "https://mcp.fleetx.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "flexmls.com",
+      "url": "https://mcp.flexmls.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flipsnack.com",
+      "url": "https://mcp.flipsnack.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flodesk.com",
+      "url": "https://mcp.flodesk.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "floorfound.com",
+      "url": "https://mcp.floorfound.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "floorspace.ca",
+      "url": "https://mcp.floorspace.ca/.well-known/mcp-server"
+    },
+    {
+      "domain": "flora.ai",
+      "url": "https://mcp.flora.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "flotiq.com",
+      "url": "https://mcp.flotiq.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowcode.com",
+      "url": "https://mcp.flowcode.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowcredi.com.br",
+      "url": "https://mcp.flowcredi.com.br/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowgenx.ai",
+      "url": "https://mcp.flowgenx.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowlogic.com.au",
+      "url": "https://mcp.flowlogic.com.au/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowlu.com",
+      "url": "https://mcp.flowlu.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flowrms.com",
+      "url": "https://mcp.flowrms.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flue-ducting.co.uk",
+      "url": "https://mcp.flue-ducting.co.uk/.well-known/mcp-server"
+    },
+    {
+      "domain": "fluix.io",
+      "url": "https://mcp.fluix.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fluss.io",
+      "url": "https://mcp.fluss.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "flyin.com",
+      "url": "https://mcp.flyin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flylance.com",
+      "url": "https://mcp.flylance.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "flymy.ai",
+      "url": "https://mcp.flymy.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fogodechao.com",
+      "url": "https://mcp.fogodechao.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fomo.ai",
+      "url": "https://mcp.fomo.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fonzi.ai",
+      "url": "https://mcp.fonzi.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "foodello.com",
+      "url": "https://mcp.foodello.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "foresight.ai",
+      "url": "https://mcp.foresight.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "forinvest.com",
+      "url": "https://mcp.forinvest.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "forkast.gg",
+      "url": "https://mcp.forkast.gg/.well-known/mcp-server"
+    },
+    {
+      "domain": "formant.io",
+      "url": "https://mcp.formant.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "formassembly.com",
+      "url": "https://mcp.formassembly.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "formly.ai",
+      "url": "https://mcp.formly.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "forte.co.nz",
+      "url": "https://mcp.forte.co.nz/.well-known/mcp-server"
+    },
+    {
+      "domain": "forter.com",
+      "url": "https://mcp.forter.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "foundational.io",
+      "url": "https://mcp.foundational.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "founderplus.id",
+      "url": "https://mcp.founderplus.id/.well-known/mcp-server"
+    },
+    {
+      "domain": "fountain.com",
+      "url": "https://mcp.fountain.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fourthwall.tv",
+      "url": "https://mcp.fourthwall.tv/.well-known/mcp-server"
+    },
+    {
+      "domain": "foxnews.com",
+      "url": "https://mcp.foxnews.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fpre.ch",
+      "url": "https://mcp.fpre.ch/.well-known/mcp-server"
+    },
+    {
+      "domain": "frambemanning.se",
+      "url": "https://mcp.frambemanning.se/.well-known/mcp-server"
+    },
+    {
+      "domain": "frame.io",
+      "url": "https://mcp.frame.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "frandesa.by",
+      "url": "https://mcp.frandesa.by/.well-known/mcp-server"
+    },
+    {
+      "domain": "frankencoin.com",
+      "url": "https://mcp.frankencoin.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "franklinsports.com",
+      "url": "https://mcp.franklinsports.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "frankyandricky.com",
+      "url": "https://mcp.frankyandricky.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fraudlogix.com",
+      "url": "https://mcp.fraudlogix.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "freedom.world",
+      "url": "https://mcp.freedom.world/.well-known/mcp-server"
+    },
+    {
+      "domain": "freee.co.jp",
+      "url": "https://mcp.freee.co.jp/.well-known/mcp-server"
+    },
+    {
+      "domain": "freee.k.k.",
+      "url": "https://mcp.freee.k.k./.well-known/mcp-server"
+    },
+    {
+      "domain": "freelo.io",
+      "url": "https://mcp.freelo.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fresha.com",
+      "url": "https://mcp.fresha.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "freshauto.ru",
+      "url": "https://mcp.freshauto.ru/.well-known/mcp-server"
+    },
+    {
+      "domain": "freshbus.com",
+      "url": "https://mcp.freshbus.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "freshpoint.cz",
+      "url": "https://mcp.freshpoint.cz/.well-known/mcp-server"
+    },
+    {
+      "domain": "freshtrackscanada.com",
+      "url": "https://mcp.freshtrackscanada.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "frictionlessit.net",
+      "url": "https://mcp.frictionlessit.net/.well-known/mcp-server"
+    },
+    {
+      "domain": "friday.nl",
+      "url": "https://mcp.friday.nl/.well-known/mcp-server"
+    },
+    {
+      "domain": "front.com",
+      "url": "https://mcp.front.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "frontguys.fr",
+      "url": "https://mcp.frontguys.fr/.well-known/mcp-server"
+    },
+    {
+      "domain": "frsport.com",
+      "url": "https://mcp.frsport.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fryd.app",
+      "url": "https://mcp.fryd.app/.well-known/mcp-server"
+    },
+    {
+      "domain": "fulcra.ai",
+      "url": "https://mcp.fulcra.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fulfyld.com",
+      "url": "https://mcp.fulfyld.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fundacion-viva.org",
+      "url": "https://mcp.fundacion-viva.org/.well-known/mcp-server"
+    },
+    {
+      "domain": "fundify.com",
+      "url": "https://mcp.fundify.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fungies.io",
+      "url": "https://mcp.fungies.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "furious-squad.com",
+      "url": "https://mcp.furious-squad.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fuse.io",
+      "url": "https://mcp.fuse.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fuselabcreative.com",
+      "url": "https://mcp.fuselabcreative.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fusionpact.com",
+      "url": "https://mcp.fusionpact.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "futureprinciple.com",
+      "url": "https://mcp.futureprinciple.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "futuresearch.ai",
+      "url": "https://mcp.futuresearch.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "futuresnoops.com",
+      "url": "https://mcp.futuresnoops.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fydeos.io",
+      "url": "https://mcp.fydeos.io/.well-known/mcp-server"
+    },
+    {
+      "domain": "fyers.in",
+      "url": "https://mcp.fyers.in/.well-known/mcp-server"
+    },
+    {
+      "domain": "fyma.ai",
+      "url": "https://mcp.fyma.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fynite.ai",
+      "url": "https://mcp.fynite.ai/.well-known/mcp-server"
+    },
+    {
+      "domain": "fyxer.com",
+      "url": "https://mcp.fyxer.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "fyxt.com",
+      "url": "https://mcp.fyxt.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "g2.com",
+      "url": "https://mcp.g2.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "gaana.com",
+      "url": "https://mcp.gaana.com/.well-known/mcp-server"
+    },
+    {
+      "domain": "gabriel.sk",
+      "url": "https://mcp.gabriel.sk/.well-known/mcp-server"
+    }
+  ]
+}
